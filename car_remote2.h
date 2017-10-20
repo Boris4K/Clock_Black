@@ -1,0 +1,18 @@
+#define CH_OK 0xFF02FD
+#define CH_FORWARD 0xFF629D
+#define CH_REVERSE 0xFFA857
+#define CH_RIGHT 0xFFC23D
+#define CH_LEFT 0xFF22DD
+#define CH_POUND 0xFF52AD
+#define CH_STAR 0xFF42BD
+
+#define NUM_0_BTN 0xFF4AB5
+#define NUM_1_BTN 0xFF6897
+#define NUM_2_BTN 0xFF9867
+#define NUM_3_BTN 0xFFB04F
+#define NUM_4_BTN 0xFF30CF
+#define NUM_5_BTN 0xFF18E7
+#define NUM_6_BTN 0xFF7A85
+#define NUM_7_BTN 0xFF10EF
+#define NUM_8_BTN 0xFF38C7
+#define NUM_9_BTN 0xFF5AA5
